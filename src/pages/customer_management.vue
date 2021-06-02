@@ -139,6 +139,8 @@ export default {
         wage: this.customer.wage
       }).then(() => {
         this.getEmployee()
+        this.customer.name = ''
+        this.customer.wage = ''
       })
     }
   },
