@@ -79,7 +79,7 @@
                 </q-item-section>
 
                 <q-item-section>
-                  Customer Management
+                  Employee Management
                 </q-item-section>
               </q-item>
             </q-list>
